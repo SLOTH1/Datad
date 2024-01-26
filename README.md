@@ -30,10 +30,10 @@ CTRL+C วรรกเพื่อหยุดโครงการ
   <br>
   <br>
 
-# ตืดตาม 
+# ติดตาม 
 <p align="center">
 
-  <a href="https://github.com/SLOTH1"><img src="http://readme-typing-svg.herokuapp.com?color=BF00FF&center=true&vCenter=true&multiline=false&lines=SUBSCRIBE+CHANNEL+Vindra+ID" alt="UwU">
+  <a href="https://github.com/SLOTH1"><img src="http://readme-typing-svg.herokuapp.com?color=BF00FF&center=true&vCenter=true&multiline=false&lines=ติดตาม+ผู้สร้าง+SHIDO" alt="UwU">
 <p 
 
 # viewers 
