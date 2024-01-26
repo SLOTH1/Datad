@@ -37,7 +37,7 @@ CTRL+C วรรกเพื่อหยุดโครงการ
 <p 
 
 # เว็บไซต์ SHIDO 
-<p align=left> <img src=https://87828ddd-f491-45c9-afda-de974ce961b2-00-3gv12jdd1pvlk.pike.replit.dev/</p>
+<a href="https://87828ddd-f491-45c9-afda-de974ce961b2-00-3gv12jdd1pvlk.pike.replit.dev/">เพจของSHIDO🤖</a>
 
 # ช่องทางการติดต่อ FB 
 
