@@ -26,7 +26,7 @@ python2 S-DdoS.py
 CTRL+C วรรกเพื่อหยุดโครงการ
 ```
 <div align="center">
-  <img src="Data/Screenshot_20231029-213646.jpg">
+  <img src="Screenshot_20240126-201143.jpg">
   <br>
   <br>
 
