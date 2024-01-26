@@ -39,7 +39,7 @@ CTRL+C วรรกเพื่อหยุดโครงการ
 # viewers 
 <p align=left> <img src=https://komarev.com/ghpvc/?username=SpamCalles alt=Dra-ID/> </p>
 
-# Lihat Tutorial 
+# ช่องทางการติดต่อ FB 
 
-<li><code>Klik Di Bawah
-<a href="https://youtu.be/4GoOi7mmDCw">Klik disini</a></code></li> 
+<li><code>เฟสSHIDO
+<a href="https://www.facebook.com/ENoomzazaa1?mibextid=ZbWKwL">กดเพื่อเข้าเฟส</a></code></li> 
