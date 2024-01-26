@@ -36,10 +36,10 @@ CTRL+C วรรกเพื่อหยุดโครงการ
   <a href="https://github.com/SLOTH1"><img src="http://readme-typing-svg.herokuapp.com?color=BF00FF&center=true&vCenter=true&multiline=false&lines=ติดตาม+ผู้สร้าง+SHIDO" alt="UwU">
 <p 
 
-# viewers 
-<p align=left> <img src=https://komarev.com/ghpvc/?username=SpamCalles alt=Dra-ID/> </p>
+# เว็บไซต์ SHIDO 
+<p align=left> <img src=https://komarev.com/ghpvc/?username=SLOTH1/S-Ddos/> </p>
 
 # ช่องทางการติดต่อ FB 
 
-<li><code>เฟสSHIDO
-<a href="https://www.facebook.com/ENoomzazaa1?mibextid=ZbWKwL">กดเพื่อเข้าเฟส</a></code></li> 
+<li><code>Facebook
+<a href="https://www.facebook.com/ENoomzazaa1?mibextid=ZbWKwL">ติดต่อเรา</a></code></li> 
