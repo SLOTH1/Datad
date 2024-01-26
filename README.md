@@ -1,4 +1,4 @@
-# Prank-Call
+# S-Ddos
 Script Untuk Spam Call 😻
 
 <p align="center">
