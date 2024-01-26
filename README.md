@@ -1,2 +1,52 @@
-สร้างขึ้นโดย ชิโด้         By SHIDO<br>
-สคริปนี้สร้างเพื่อศึกษาเท่านั้น
+# Prank-Call
+Script Untuk Spam Call 😻
+
+<p align="center">
+
+  <a href="https://github.com/Dra-ID"><img src="http://readme-typing-svg.herokuapp.com?color=FFFFFF&center=true&vCenter=true&multiline=false&lines=Kasih+Star+Lah+Njinh+Banget" alt="UwU">
+  
+# info Script
+
+<p align="center">
+
+  <a href="https://github.com/Dra-ID"><img src="http://readme-typing-svg.herokuapp.com?color=BF00FF&center=true&vCenter=true&multiline=false&lines=Sewaktu+waktu+tools+ini+akan" alt="UwU">
+
+  <a href="https://github.com/Dra-ID"><img src="http://readme-typing-svg.herokuapp.com?color=BF00FF&center=true&vCenter=true&multiline=false&lines=expired+jadi+gunakan+dengan+bijak+!" alt="UwU">
+
+</p>
+
+# Package
+```python
+pkg update && pkg upgrade
+pkg install python
+pkg install python-pip
+pkg install python2
+pkg install git
+cd
+rm -rf Prank-Call
+git clone https://github.com/Dra-ID/Prank-Call
+cd Prank-Call
+ls
+pip install inquirer
+pip install -r requirements.txt
+git pull
+python run.py
+```
+<div align="center">
+  <img src="Data/Screenshot_20231029-213646.jpg">
+  <br>
+  <br>
+
+# Subscribe 
+<p align="center">
+
+  <a href="https://github.com/Dra-ID"><img src="http://readme-typing-svg.herokuapp.com?color=BF00FF&center=true&vCenter=true&multiline=false&lines=SUBSCRIBE+CHANNEL+Vindra+ID" alt="UwU">
+<p 
+
+# viewers 
+<p align=left> <img src=https://komarev.com/ghpvc/?username=SpamCalles alt=Dra-ID/> </p>
+
+# Lihat Tutorial 
+
+<li><code>Klik Di Bawah
+<a href="https://youtu.be/4GoOi7mmDCw">Klik disini</a></code></li> 
