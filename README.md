@@ -37,7 +37,7 @@ CTRL+C วรรกเพื่อหยุดโครงการ
 <p 
 
 # เว็บไซต์ SHIDO 
-<p align=left> <img src=https://komarev.com/ghpvc/?username=SLOTH1/S-Ddos/> </p>
+<p align=left> <img src=https://komarev.com/ghpvc/?username=SLOTH1/S-Ddos> </p>
 
 # ช่องทางการติดต่อ FB 
 
