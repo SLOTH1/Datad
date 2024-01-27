@@ -1,5 +1,6 @@
 # S-Ddos
 โครงการนี้สร้างขึ้นโดยชิโด้
+ใช้สำหรับ DDOS WIFI
 <p align="center">
   <a href="https://github.com/Dra-ID"><img src="http://readme-typing-svg.herokuapp.com?color=FFFFFF&center=true&vCenter=true&multiline=false&lines=Kasih+Star+Lah+Njinh+Banget" alt="UwU">
   
