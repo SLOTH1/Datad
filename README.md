@@ -2,7 +2,7 @@
 โครงการนี้สร้างขึ้นโดยชิโด้
 ใช้สำหรับ DDOS WIFI
 <p align="center">
-  <a href="https://github.com/Dra-ID"><img src="http://readme-typing-svg.herokuapp.com?color=FFFFFF&center=true&vCenter=true&multiline=false&lines=Kasih+Star+Lah+Njinh+Banget" alt="UwU">
+  <a href="https://github.com/SLOTH1"><img src="http://readme-typing-svg.herokuapp.com?color=FFFFFF&center=true&vCenter=true&multiline=false&lines=โปรไฟล์+กดเพื่อดู+โครงการของ+ชิโด้+TH🇹🇭" alt="UwU">
   
 # จุดประสงค์
 
