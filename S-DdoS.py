@@ -1,3 +1,4 @@
+termux-open-url https://youtube.com/@sloth1565
 print ("\033[91m")
 import sys
 import os
