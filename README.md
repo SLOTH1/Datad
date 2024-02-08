@@ -21,7 +21,7 @@ pkg install git
 git clone https://github.com/SLOTH1/S-Ddos
 cd S-Ddos
 ls
-python2 S-DdoS.py
+python2 Run.py
 ใส่ไอพี
 ใส่port= 80
 CTRL+C วรรกเพื่อหยุดโครงการ
